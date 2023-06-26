@@ -7,3 +7,15 @@
     align-items: center;
     justify-content: space-between;
 }
+
+.search {
+display: flex;
+justify-content: center;  
+padding: 20px 0;
+}
+
+.card {
+  display: flex;
+  justify-content: center;  
+  }
+
